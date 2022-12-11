@@ -20,6 +20,7 @@ img {
   border-radius: 10px;
 }
 .heading {
+  font-family: "Outfit";
   position: absolute;
   font-size: 22px;
   top: 275px;
@@ -29,6 +30,7 @@ img {
   text-align: center;
 }
 .pragraph {
+  font-family: "Outfit";
   position: absolute;
   font-size: 18px;
   top: 340px;
